@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tablelayout"
+            android:icon="@drawable/ic_menu_tablelayout"
+            android:title="@string/menu_tablelayout" />
+        <item
+            android:id="@+id/nav_tableplan"
+            android:icon="@drawable/ic_menu_tableplan"
+            android:title="@string/menu_tableplan" />
+        <item
+            android:id="@+id/nav_floorplan"
+            android:icon="@drawable/ic_menu_floorplan"
+            android:title="@string/menu_floorplan" />
+
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_menu_aboutus"
+            android:title="@string/menu_about" />
+    </group>
+
+    <item android:title="Communicate">
+    <menu>
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/menu_share" />
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/menu_send" />
+    </menu>
+    </item>
+
+    <item android:title="Access Control">
+        <menu>
+            <item
+                android:id="@+id/nav_sign_out"
+                android:icon="@android:drawable/ic_menu_revert"
+                android:title="@string/sign_out" />
+        </menu>
+    </item>
+
+</menu>

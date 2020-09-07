@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AF69EF</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#67032F</color>
+    <color name="ic_launcher_homer_background">#FFFFFF</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="grey_100">#E39FF6</color>
+    <color name="grey_300">#BE93D4</color>
+    <color name="grey_500">#9E7BB5</color>
+</resources>

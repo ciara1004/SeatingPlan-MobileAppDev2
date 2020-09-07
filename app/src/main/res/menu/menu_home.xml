@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ie.wit.activities.Donate">
+
+    <item
+        android:id="@+id/action_tableplan"
+        android:orderInCategory="100"
+        android:title="@string/action_tableplan"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablelayout"
+        android:orderInCategory="100"
+        android:title="@string/action_tablelayout"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_floorplan"
+        android:orderInCategory="100"
+        android:title="@string/action_floorplan"
+        app:showAsAction="never" />
+
+</menu>

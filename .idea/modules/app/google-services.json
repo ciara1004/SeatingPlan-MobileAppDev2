@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32736147516",
+    "firebase_url": "https://seatingplan-17cd6.firebaseio.com",
+    "project_id": "seatingplan-17cd6",
+    "storage_bucket": "seatingplan-17cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32736147516:android:7c39f7c759535f7e3fab39",
+        "android_client_info": {
+          "package_name": "ie.wit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32736147516-71phfa7c1afup9aef778sekrupoueq8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.wit",
+            "certificate_hash": "91002732a39e86d52631f01d882432f9c0f5eefe"
+          }
+        },
+        {
+          "client_id": "32736147516-71ssg6gl2pnq7io1t36t41m2db2jq90n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZHxjVnySolpD23WLZCbmIc6BD4KCf9vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32736147516-71ssg6gl2pnq7io1t36t41m2db2jq90n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

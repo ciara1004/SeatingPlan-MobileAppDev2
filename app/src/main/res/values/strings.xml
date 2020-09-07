@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Seating Plan</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Seating Plan</string>
+    <string name="nav_header_subtitle">seatingplan@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_about">About Us</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_floorplan">Floor Plan</string>
+    <string name="menu_tablelayout">Table Layout</string>
+    <string name="menu_tableplan">Table Plan</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="table1">Table 1</string>
+    <string name="table2">Table 2</string>
+    <string name="table3">Table 3</string>
+    <string name="table4">Table 4</string>
+    <string name="table5">Table 5</string>
+    <string name="table6">Table 6</string>
+    <string name="table7">Table 7</string>
+    <string name="table8">Table 8</string>
+    <string name="toptable">Top Table</string>
+
+    <string name="entermessage">Please Enter Your Guests Names Here</string>
+    <string name="tableno">Table No.</string>
+    <string name="number">Number</string>
+    <string name="name">Name</string>
+
+    <string name="aboutus_title">Seating Plan</string>
+    <string name="aboutus_message">Welcome To Seating Plan\n\nWhere You Can Keep Track of All The Guests\n\nAttending Your Event</string>
+
+    <string name="messageLoading">Please wait while we load your Seating Plan..</string>
+
+    <string name="action_edit">Edit Table Plan</string>
+    <string name="action_update">Update</string>
+    <string name="message_edit">Please Update your Details Below</string>
+    <string name="editnames">Please Edit List of Names Below</string>
+    <string name="save">Save</string>
+    <string name="saveEdit">Save Changes</string>
+
+    <string name="guests">Guests</string>
+
+    <string name="action_tablelayout">Table Layout</string>
+    <string name="floorplan_title">Seating Plan</string>
+
+    <string name="action_about">About Us</string>
+    <string name="action_floorplan">Floor Plan</string>
+    <string name="action_tableplan">Table Plan</string>
+
+    <!-- START Firebase Resources-->
+
+    <string name="label_emailpassword">Email/Password Authentication</string>
+    <string name="desc_emailpassword">Use an email and password to authenticate with Firebase.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="send_link">Send Link</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="emailpassword_title_text">Please Login Below</string>
+
+    <string name="select_profile_image">Select Profile Image</string>
+    <!--END Firebase Resources-->
+</resources>
